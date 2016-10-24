@@ -1,6 +1,8 @@
 'hello'.index('e')    # 1
 'hello'.rindex('l')   # 3
 
+puts "hello"
+
 if 'hello'.include? 'lo' then puts 'found' end
 
 'hello' * 3           # 'hellohellohello'
